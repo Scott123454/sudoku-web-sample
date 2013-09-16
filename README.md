@@ -1,0 +1,1 @@
+This is a unfinished version of the sudoku game built in Sinatra. Uses Sinatra and Minitest.
