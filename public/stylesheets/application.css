@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: Arial;
+  background-image:url(http://bit.ly/1eze8aE)
 }
 
 div.box, div.cell {
@@ -35,3 +36,4 @@ div.box {
 .value-provided {
   background-color: #DDD;
 }
+
